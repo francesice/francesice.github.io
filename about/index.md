@@ -12,4 +12,8 @@ After doing her PhD at the Graduate College "The Economics of Innovative Change"
 
 Her main research interests are Economics of innovation, Science & Technology Policy, and Applied microeconomics. The topic of her doctoral dissertation is "International Trade, Learning, and Firm Heterogeneity: Theory and Evidence from Developing Economies".
 
+<<<<<<< HEAD
 ![图片测试](../assets/img/wf.jpg = 200*200)
+=======
+![图片测试](../assets/img/wf.jpg = 200px)
+>>>>>>> f5519f5e6d1550f7aded0956c276216abb707203
