@@ -41,11 +41,11 @@ disqus_shortname:   taylantatli
 email:            username
 twitter:            username
 facebook:           username
-spin:
-heartbeat:
-car:
-venus:
-search:
+spin:  1
+heartbeat: 2
+car: 3
+venus: 4
+search: 5
 
 
 # Gems
