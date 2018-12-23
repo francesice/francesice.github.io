@@ -38,9 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-email:            username
-twitter:            username
-facebook:           username
+
 spin:  1
 heartbeat: 2
 car: 3
