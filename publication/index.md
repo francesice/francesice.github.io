@@ -7,5 +7,3 @@ comments: false
 ---
 
 Fang Wang, Complementarities between R&D investment and exporting — Evidence from China, China Economic Review, 2014 (31): 217-227. 
-
-![图片测试](../assets/img/wf.jpg)
