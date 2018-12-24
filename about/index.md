@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wang, Fang
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2018-12-21
 comments: false
 ---
