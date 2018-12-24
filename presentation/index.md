@@ -6,7 +6,7 @@ date: 2018-12-21
 comments: false
 ---
 
-* Regulation and innovation: The intermediate role of resource
++ Regulation and innovation: The intermediate role of resource
 reallocation. "The 17th International Schumpeter Society Conference on Innovation, Catch-up and Sustainable Development”, Korea, July 2018
 
 + Organization innovation for Product innovation and imitation: Evidence from Chinese Firms. "Atlanta Conference on Science and Innovation Policy", Atlanta U.S., September 2015
