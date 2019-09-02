@@ -9,3 +9,5 @@ comments: false
 + Fang Wang, Complementarities between R&D investment and exporting — Evidence from China, China Economic Review, 2014(31): 217-227.
 
 + Xiaoyong Dai, Fang Wang*, Does the high- and new-technology enterprise program promote innovative performance? Evidence from Chinese firms, China Economic Review，2019(57): 101330
+
++ Fang Wang*, Kaihua Chen, Do Product Imitation and Innovation Require Different Patterns of Organizational Innovation? Evidence from Chinese Firms, Journal of Business Research, Forthcoming
