@@ -6,7 +6,7 @@ date: 2018-12-21
 comments: false
 ---
 
-+ Fang Wang*, Kaihua Chen, Do Product Imitation and Innovation Require Different Patterns of Organizational Innovation? Evidence from Chinese Firms, Journal of Business Research, Forthcoming
++ Fang Wang*, Kaihua Chen, Do Product Imitation and Innovation Require Different Patterns of Organizational Innovation? Evidence from Chinese Firms, Journal of Business Research, 2020(106): 60-74
 
 + Xiaoyong Dai, Fang Wang*, Does the high- and new-technology enterprise program promote innovative performance? Evidence from Chinese firms, China Economic Review，2019(57): 101330
 
@@ -23,4 +23,4 @@ comments: false
 
 + 赵兰香，王芳. 技术蓝图规划在技术管理中的应用研究，科学学与科学技术管理，2007，28（5）：5-9.
 
-+ 赵兰香，王芳，姚萌. 中国人才培养急需“双重转型”. 中国科学院院刊， 2019，34(5)：532-541. 
++ 赵兰香，王芳，姚萌. 中国人才培养急需“双重转型”. 中国科学院院刊， 2019，34(5)：532-541.
