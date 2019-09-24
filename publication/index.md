@@ -6,13 +6,13 @@ date: 2018-12-21
 comments: false
 ---
 
-+ Fang Wang*, Kaihua Chen, Do Product Imitation and Innovation Require Different Patterns of Organizational Innovation? Evidence from Chinese Firms, Journal of Business Research, 2020(106): 60-74
++ Fang Wang*, Kaihua Chen. Do Product Imitation and Innovation Require Different Patterns of Organizational Innovation? Evidence from Chinese Firms, Journal of Business Research, 2020(106): 60-74
 
-+ Xiaoyong Dai, Fang Wang*, Does the high- and new-technology enterprise program promote innovative performance? Evidence from Chinese firms, China Economic Review，2019(57): 101330
++ Xiaoyong Dai, Fang Wang*. Does the high- and new-technology enterprise program promote innovative performance? Evidence from Chinese firms, China Economic Review，2019(57): 101330
 
-+ Fang Wang, Complementarities between R&D investment and exporting — Evidence from China, China Economic Review, 2014(31): 217-227.
++ Fang Wang. Complementarities between R&D investment and exporting — Evidence from China, China Economic Review, 2014(31): 217-227.
 
-+ Fang Wang, International Trade, Learning, and Firm Heterogeneity. Südwestdeutscher Verlag für Hochschulschriften: Saarbrücken, Germany, ISBN: 978-3838139142, September, 2014.
++ Fang Wang. International Trade, Learning, and Firm Heterogeneity. Südwestdeutscher Verlag für Hochschulschriften: Saarbrücken, Germany, ISBN: 978-3838139142, September, 2014.
 
 + 王芳，赵兰香. 产业技术属性对企业R&D投入决策的影响，科学学研究，2016，34（3）：346-356.
 + 王芳，赵兰香. 后发国家企业技术能力动态演进特征研究——基于潜在转换分析方法，中国软科学，2015（3）：105-116.
