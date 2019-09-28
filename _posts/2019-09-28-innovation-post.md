@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Talent"
+title:  "Innovation Policy"
 date:   2019-09-28
 excerpt: "My personal website"
 project: true

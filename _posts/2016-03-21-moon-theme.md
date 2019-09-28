@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Innovation Policy"
+title:  "Firm Innovation"
 date:   2019-09-28
 excerpt: "Scientific Instrument Industry"
 project: true
