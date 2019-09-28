@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Theme"
-date:   2018-12-24
-excerpt: "My personal website"
+title:  "Innovation Policy"
+date:   2019-09-28
+excerpt: "Scientific Instrument Industry"
 project: true
 tag:
 - Economics of innovation
@@ -17,7 +17,7 @@ comments: true
 
 <center><b>Moon</b> </center>
 
- I'm not a developer or designer. please give a **star** for motivation, It makes me happy.
+please give a **star** for motivation, It makes me happy.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
@@ -157,4 +157,4 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. The content 
+This theme is free and open source software, distributed under the MIT License. The content

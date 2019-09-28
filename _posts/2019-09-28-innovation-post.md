@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Theme"
+title:  "Talent"
 date:   2018-12-24
 excerpt: "My personal website"
 project: true
@@ -157,4 +157,4 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. The content 
+This theme is free and open source software, distributed under the MIT License. The content
