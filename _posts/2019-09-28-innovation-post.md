@@ -1,15 +1,12 @@
 ---
 layout: post
 title:  "Talent"
-date:   2018-12-24
+date:   2019-09-28
 excerpt: "My personal website"
 project: true
 tag:
 - Economics of innovation
 - Science and technology policy
-- Application of econometrics
-- Bodybuilding
-- Driving
 comments: true
 ---
 
