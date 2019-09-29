@@ -2,7 +2,7 @@
 layout: post
 title:  "Firm Innovation"
 date:   2019-09-28
-excerpt: "Scientific Instrument Industry"
+excerpt: "International trade"
 project: true
 tag:
 - Economics of innovation

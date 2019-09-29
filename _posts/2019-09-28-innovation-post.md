@@ -2,7 +2,14 @@
 layout: post
 title:  "Innovation Policy"
 date:   2019-09-28
-excerpt: "My personal website"
+excerpt: "Scientific instrument industry"
+project: true
+tag:
+- Economics of innovation
+- Science and technology policy
+comments: true
+
+excerpt: "Science-based industry"
 project: true
 tag:
 - Economics of innovation
