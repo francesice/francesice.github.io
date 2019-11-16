@@ -7,7 +7,11 @@ comments: false
 ---
 
 + Regulation and innovation: The intermediate role of resource
-reallocation. "The 17th International Schumpeter Society Conference on Innovation, Catch-up and Sustainable Development”, Korea, July 2018
+reallocation. "The 17th International Schumpeter Society Conference on Innovation, Catch-up and Sustainable Development”, Soul Korea, July 2018
+
++ Regulation, resource allocation and innovation- evidence from China. "The 27th International Conference on Management of Technology", Birmingham UK，April 2018
+
++ Organizational innovation for Product Innovation and Imitation – Evidence from China，"The 16th International Schumpeter Society Conference", Montreal Canada, July 2016
 
 + Organization innovation for product innovation and imitation: Evidence from Chinese Firms. "Atlanta Conference on Science and Innovation Policy", Atlanta U.S., September 2015
 
