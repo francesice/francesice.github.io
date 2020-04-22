@@ -2,9 +2,10 @@
 layout: page
 title: Publications
 tags: [about, publication]
-date: 2018-12-21
+date: 2020-04-21
 comments: false
 ---
++ Fang Wang*, Xiaoyong Dai. Regulation and product innovation: The intermediate role of resource reallocation, Journal of Evolutionary Economics, forthcoming
 
 + Fang Wang*, Kaihua Chen. Do Product Imitation and Innovation Require Different Patterns of Organizational Innovation? Evidence from Chinese Firms, Journal of Business Research, 2020(106): 60-74
 
